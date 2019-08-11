@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import calc from '../src/main';
+import calc from '../src/calc';
 
 describe('Calc', () => {
   describe('Smoke test', () => {
