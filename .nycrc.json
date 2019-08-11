@@ -1,0 +1,7 @@
+{
+  "reporter": ["text", "html"],
+  "exclude": ["tests"],
+  "check-coverage": true,
+  "functions": 80,
+  "lines": 80
+}
